@@ -1,0 +1,16 @@
+:root {
+    --pink: #E53170;
+    --cyan: #48A1CF;
+}
+
+/* Generics */
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    background-color: white;
+    font-family: 'Fredoka', sans-serif;
+}
